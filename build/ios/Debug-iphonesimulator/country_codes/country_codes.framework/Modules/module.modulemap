@@ -1,0 +1,11 @@
+framework module country_codes {
+  umbrella header "country_codes-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module country_codes.Swift {
+  header "country_codes-Swift.h"
+  requires objc
+}

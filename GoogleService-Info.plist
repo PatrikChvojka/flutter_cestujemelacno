@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB_f1e1H9R0RL-HX7Q0b0B5oBBy3Az_m_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317812161791</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.progresivneaplikacie.cestujemelacno</string>
+	<key>PROJECT_ID</key>
+	<string>cestujeme-lacno---notifikacie</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cestujeme-lacno---notifikacie.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317812161791:ios:d6fa5e740df7d00ec1a0ca</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+framework module flutter_iap_verificator {
+  umbrella header "flutter_iap_verificator-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_iap_verificator.Swift {
+  header "flutter_iap_verificator-Swift.h"
+  requires objc
+}
