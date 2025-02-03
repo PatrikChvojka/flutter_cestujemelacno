@@ -192,21 +192,28 @@ class _ReceptScreenState extends State<ReceptScreen> {
         title: Row(
           children: [
             Padding(
-              padding: const EdgeInsets.only(left: 0.0, top: 0.0, right: 20),
-              child: TextButton(
-                style: TextButton.styleFrom(
-                  backgroundColor: Color.fromRGBO(0, 0, 0, 0.5),
-                  maximumSize: Size(40.0, 40.0),
-                  minimumSize: Size(40.0, 40.0),
+            padding: const EdgeInsets.only(left: 0.0, top: 0.0, right: 20),
+            child: TextButton(
+              style: TextButton.styleFrom(
+                backgroundColor: Color.fromRGBO(0, 0, 0, 0.5),
+                minimumSize: Size(40.0, 40.0),
+                padding: EdgeInsets.zero, // Odstránenie predvoleného paddingu
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(5.0),
                 ),
+              ),
+              child: Center( // Uisti sa, že ikonka je centrovaná
                 child: Icon(
                   size: 23.0,
                   Icons.arrow_back,
                   color: Colors.white,
                 ),
-                onPressed: () => Navigator.pop(context),
               ),
+              onPressed: () => Navigator.pop(context),
             ),
+          ),
+
+
             Padding(
               padding: const EdgeInsets.only(right: 10.0),
               child: Image.asset(height: 50.0, "lib/assets/images/mainIcon.png"),

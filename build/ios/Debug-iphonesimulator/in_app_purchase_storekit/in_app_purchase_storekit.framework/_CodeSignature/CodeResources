@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QiBQOwhANtJmLmNSfiUaAqAyD0E=
+		1oYYRbdqccBfYeIZudQFivvI6YY=
 		</data>
 		<key>Modules/in_app_purchase_storekit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/in_app_purchase_storekit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wg2AMRDWL5VCgDmP66HVxeI7t3o=
+		Zah6aQLpp/F3GC+zz8KKeDEk49E=
 		</data>
 		<key>Modules/in_app_purchase_storekit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/in_app_purchase_storekit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6gOTtlfykRm4KOZ9hEWy+I+hrIg=
+		bTOLuHvn03i3WOmgLUSO+3iowFo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>in_app_purchase_storekit_privacy.bundle/Info.plist</key>
 		<data>
-		s4Y/WIl5VJPp6imAHjkN5tN66vM=
+		CZvQ1q6EJ0yIQxCU4MjF6zeaQ40=
 		</data>
 		<key>in_app_purchase_storekit_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5l2Wrck0Wy3Bh3+fFJi+524ief1u4Aq2uf9pLPYToU=
+			iP+4DNnff54SH9dHoT431jucepqTg4sIvYEr6w92lu0=
 			</data>
 		</dict>
 		<key>Modules/in_app_purchase_storekit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FWGzxNOEoPvx1iGI78/ErdtpS7yyxgeBF6hct+Yr4PM=
+			aJCcPSuV9MsC7IknHFKvXKGgclnkcLy5x1Is4K6TyzA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJXpl+sZcP9rEOaPAoXNzt0krsc6hjgCtaek1WR4CwM=
+			OlImBb/yL0pxaYSgnmDS7y1o4sfaYTMzWrdU2ZURQe4=
 			</data>
 		</dict>
 		<key>in_app_purchase_storekit_privacy.bundle/PrivacyInfo.xcprivacy</key>

@@ -5,6 +5,9 @@ class MainAppStyle {
   ThemeData themeData = ThemeData(
     fontFamily: 'Montserrat',
     primarySwatch: Colors.blue,
+    progressIndicatorTheme: ProgressIndicatorThemeData(
+      color: Colors.blue, // Nastaví farbu načítavacích koliečok
+    ),
   );
 
   // MAIN Color

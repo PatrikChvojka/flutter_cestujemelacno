@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/SS4SmKu5sxamZ/8lwnssTFUR+g=
+		3SUvvIzNngt0KdkLFmAw7YWVKKI=
 		</data>
 		<key>Modules/flutter_iap_verificator.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/flutter_iap_verificator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C/O33J9OBXtQ8PtV0V8hDoGs0D0=
+		PHtYlErDtEqTRvk/ZsSlRQ24E9g=
 		</data>
 		<key>Modules/flutter_iap_verificator.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/flutter_iap_verificator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NNxZtdORuFNTDNd9vxH3IGhomUs=
+		mSQNk0Aw4/JF+slo5xzbumcIN4s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0MDbzZkoRIW+1UmBO296NaE2wTDc7n4vtuZDR2OjUQk=
+			t2KmHdzI4spTAEr7SKdZIPyV3GL6hgLo6WS69fAZKC8=
 			</data>
 		</dict>
 		<key>Modules/flutter_iap_verificator.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RqM0QCtB7SMFO8dJ3uvfUw+u6nefqaopMTuIwp0WTrM=
+			zHhcan62ZJs0nPyYOkvHUerkJtE+D3EMeJYfYLAtFI4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
